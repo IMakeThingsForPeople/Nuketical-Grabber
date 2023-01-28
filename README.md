@@ -1,3 +1,9 @@
+![Nuketical](https://user-images.githubusercontent.com/123840441/215294066-fae087ad-801c-4320-945a-1767ca664a85.png)
+
+
+
+
+
 
 ## Features
 - Discord token info
