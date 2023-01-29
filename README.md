@@ -47,4 +47,3 @@ View the [contributing guidelines](CONTRIBUTING.md) for more information on how 
 
 Nuketical is licensed under the <a href="https://mit-license.org/">MIT License</a>.
 
-https://github.com/IMakeThingsForPeople/Nuketical-Grabber/issues/1#issue-1561078224
