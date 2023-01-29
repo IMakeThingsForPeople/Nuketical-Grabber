@@ -47,4 +47,5 @@ View the [contributing guidelines](CONTRIBUTING.md) for more information on how 
 
 Nuketical is licensed under the <a href="https://mit-license.org/">MIT License</a>.
 
+![footer](https://user-images.githubusercontent.com/123840441/215298946-adf57b57-f966-48df-8b7c-c01413261da4.png)
 
